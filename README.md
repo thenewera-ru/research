@@ -1,11 +1,7 @@
-# JUSTATOM.org : _research_
+<h2 align="center"><a href="https://justatom.org"><i>justatom.org</i></a></h1>
 
 
-<p align="center">
-    <img src="./docs/logo.png" alt="image" style="max-width:100%;"/>
-</p>
-
-_This is non official project showing showcasing interesting results during development [JUSTanATOM](https://justatom.org)_
+## _This is non official project showing showcasing interesting results during development at [justatom](https://justatom.org)_
 ====================================
 
 <h2 align="center">Semantic Textual Similarity</h2>
